@@ -10,3 +10,6 @@ Capslock & o:: SendInput {End}
 
 Capslock & `;:: SendInput {Enter}
 Capslock & h:: SendInput {Backspace}
+
+Capslock & a:: SendInput {Browser_Back}
+Capslock & s:: SendInput {Browser_Forward}
